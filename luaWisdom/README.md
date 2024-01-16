@@ -1,0 +1,1 @@
+The focus of this directory is to dive into syntactic knowledge of the Lua programming language.
