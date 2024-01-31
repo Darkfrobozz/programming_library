@@ -1,0 +1,1 @@
+If we have [[variable]]s with similar names, rust has a [[type_system]] that allows type shadowing as it determines which type is the right one depending on the context.

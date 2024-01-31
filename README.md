@@ -1,2 +1,2 @@
 # programming_library
-This is a source of several knowledge within several programming languages.
+This is a source of syntatic knowledge within several programming languages.
