@@ -6,6 +6,6 @@ The match is a super powerful expression of pattern matching.
         Ordering::Equal => println!("You win!"),
     }
 ```
-Each *Ordering* part here is a possible outcome and the compiler, being our friend, reminds us to match all the outcomes.
+Each *Ordering* part here is a possible outcome and the compiler, being our friend, reminds us to match all the outcomes to some [[arm]].
 
 match can also be used instead of [[expect]] to handle [[result_variants]] more effectively rather than just crashing.
