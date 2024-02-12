@@ -1,0 +1,1 @@
+Drop is a method to free up [[heap_mem]] in rust and to let the program reuse the space.

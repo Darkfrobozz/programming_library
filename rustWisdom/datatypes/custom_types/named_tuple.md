@@ -1,0 +1,1 @@
+We can name a [[tuple]] and, thus, make our own type, this is used for more safety and easier control over what kind of data the tuple consists of.

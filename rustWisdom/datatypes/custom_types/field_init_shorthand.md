@@ -1,0 +1,1 @@
+When we have variables with the same name as the fields of a [[struct]] we can simply leave the field blank and it will be automatically filled in with the variable of the correct name.
